@@ -1,22 +1,22 @@
 basic:
-  name: Sara Mannion # name
-  title: Registered Nurse # job title
+  name: Drew Meylan # name
+  title: Desktop Support Analyst # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/Sara.png # avatar file path
+    path: /assets/images/ # avatar file path
 
 contact:
   # meta
-  location: 2306 Moonglow Ct, Saginaw MI, 48603             # location
-  email: Sara.Mannion@chs-mi.com # email address
-  phone: 989-980-9455 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  location: 5119 Fraser Road, Bay City MI 48706             # location
+  email: dnmeylan@gmail.com # email address
+  phone: 989.439.5522 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
     #website:     # site URL without schema, like example.com, will automatically prepand "https://"
 
-    #gender: Male                       # gender or pronoun
-    #birthday: 10/271991                # birthday
-    #nationality: American              # nationality
+  gender: Male                       # gender or pronoun
+  birthday: 10/27/1991                # birthday
+  nationality: American              # nationality
     #visa:                              # passport visa
-    #drivinglicense:                    # driving licence
+  drivinglicense: M450152630827                    # driving licence
 
   # contact
   #wechat:                  # username
@@ -25,8 +25,8 @@ contact:
   #messenger:               # username          | https://m.me/username
   #line:                    # lineid            | https://line.me/R/ti/p/@lineid
   #viber:                   # username          | https://vb.me/username
-  # programmer
-  #github: # username          | https://github.com/username
+  #programmer
+  github:                     kidscripto        | https://github.com/kidscripto
   #gitlab:                  # username          | https://gitlab.com/username
   #bitbucket:               # username          | https://bitbucket.com/username
   #stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -34,7 +34,7 @@ contact:
   #codeforces:              # username          | https://codeforces.com/profile/username
   #codewars:                # username          | https://www.codewars.com/users/username
   #codepen:                 # username          | https://codepen.io/username
-  #tryhackme:# username          | https://tryhackme.com/p/username
+  #tryhackme:               # username          | https://tryhackme.com/p/username !!!
 
   # academic
   #googlescholar:           # username          | https://scholar.google.com/citations?user=username
@@ -75,7 +75,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Compassionate Registered Nurse with more than 10 years experience in the healthcare industry, working with a variety of different patient demographics. After gaining concrete experience nursing experience in a fast-paced orthopedic surgery unit, I'm looking to broaden my horizons and explore other facets of the nursing profession!
+    I'm a motivated and curious individual looking to pivot into an IT career. My interests include infosec and network security engineering. Always looking for advice, and to learn new things. 
 
 education:
   show: true
@@ -85,13 +85,21 @@ education:
     #The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
 
   items:
-    - institution: Delta Community College 
-      link: 'https://www.delta.edu/'
-      date: 2015 - 2018
-      major: Major: Nursing 
-      degree: Associates
-      description: |
-        Completed an Associates Degree in Nursing with clinical coursework performed at Covenant 
+    - institution: Saginaw Valley State University 
+      link: 'https://www.svsu.edu/'
+      date: Graduated May 2017
+      major: Clinical Exercise Physiology 
+      degree: Bachelor's of Science
+        #description: |
+        #Undergraduate degree in clinical exercise physiology, with an emphasis on EKG interpretation and cardiac rehabilitation. 
+    
+    - institution: Saginaw Valley State University
+      link: 'https://www.svsu.edu/'
+      date: Graduated May 2021
+      major: Healthcare Administration and Executive Leadership
+      degree: Masters Degree
+        #description: |
+        #Gra
 
 experience:
   show: true
@@ -102,33 +110,23 @@ experience:
 
   items:    
     - company: Covenant Healthcare
-      link: 'https://www.covenanthealthcare.com/?utm_source=google&utm_medium=cpc&utm_campaign=brand'
+      link: 'https://www.covenanthealthcare.com'
       tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Registered Nurse
+      date: 2017.11 - 2022.02
+      role: Health Unit Coordinator
       location: Saginaw, MI
       description: |
-        Worked as part of a multidisciplinary clinical team on a orthopedic post-surigcal unit; coordinated with physicians, nursing aides, and various speciality groups - PT, OT, Speech pathologists, etc. - as necessary to meet the needs of the patients. Test!!
+        Description
+        
 
-
-    - company: Holy Cross Children's Services 
-      link: 'https://holycrossservices.org/'
+    - company: Covenant Healthcare 
+      link: 'https://covenanthealthcare.com'
       tags: Full-time
-      date: 2017.09 - {}
-      role: Treatment Specialist / Med Passer
+      date: 2022.02 - Present
+      role: Desktop Support Analyst
       location: Saginaw, MI
       description: |
-        Safely administer medications, remained patient with a calm demeanor, and kept an enthusiastic attitude. Monitoring and reporting changes. Accurately recording medications that have been dispensed and adding other care notes as required
-
-    - company: Wellspring Lutheran Services
-      link: 'https://wellspringlutheran.com/'
-      tags: Full-time
-      date: 2011.11 - 2018.02
-      role: Certified Nursing Assistant
-      location: Saginaw, MI
-      description: |
-        Worked with Alzheimer/Dementia patients, rehab patients and geriatric patients. Teamwork and collaboration with nurses and providers, with an emphasis on compliance with protocols and procedures.
-
+        Description
 
 certificate:
   show: true
@@ -144,18 +142,33 @@ certificate:
     #The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
 
   items:
-    - name: Basic Life Support (BLS)
-      issuer: American Heart Association
-      date: 2020
+    - name: A+
+      issuer: CompTIA
+      date: 12.16.2021
       link: '#'
-      description: |
-        It's my Example Certificate One by Example.
-    - name: Stop The Bleed
-      issuer: American College of Surgeons
-      date: 2020
-      link:
-      description: |
-        It's my Example Certificate Two by Example.
+        #description: |
+        #It's my Example Certificate One by Example.
+    
+    - name: Network+
+      issuer: CompTIA
+      date: 1.27.2021
+      link: '#'
+        #description: |
+        #It's my Example Certificate Two by Example.
+
+    - name: Security+
+      issuer: CompTIA
+      date: 2.27.2023
+      link: '#'
+        #description: |
+        #Description
+
+    - name: Cisco Certified Network Associate
+      issuer: Cisco
+      date: In Progress
+      link: '#'
+        #description: |
+        #Description
  
 skill:
   show: true
@@ -260,7 +273,7 @@ reference:
       description: |
         Kyle was my manager on 5N/M for many years before being promoted within the company. 
 
-    - name: Brian Boetefuer
+    - name: Brett Harkrader
       link: "#"
       title: Cooper 5N/M Manager
       institution: Covenant Healthcare
@@ -271,7 +284,7 @@ reference:
         Brian was the unit coordinator initally and moved up to unit manager after Kyle vacated the position.
 
 
-    - name: Drew Meylan
+    - name: Paul Anderson
       link: '#'
       title: Desktop Support Analyst
       institution: Covenant Healthcare
@@ -280,24 +293,5 @@ reference:
       phone: 989.439.5522
       description: |
         Drew was a co-worker on the clinical unit before he transferred to the IT department.
-
-  ###
-  #- name: Sierra Birch
-      #link: '#'
-        #title: 
-        #institution:
-        #address:
-        #email:
-        #phone:
-        #description:
-
-        #- name: Amanda Bailey
-      #link: '#'
-        #title: 
-        #institution:
-        #     address:
-        #    email:
-        #    phone:
-        #    description:
   
   close: <strong>Sorry, my resume has been hidden.</strong>
