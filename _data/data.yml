@@ -79,7 +79,7 @@ profile:
 
 education:
   show: true
-  order: 2
+  order: 5
   title: Education
     #description: |
     #The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
@@ -103,7 +103,7 @@ education:
 
 experience:
   show: true
-  order: 3
+  order: 2
   title: Experience
     #description: |
     #The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
@@ -113,10 +113,10 @@ experience:
       link: 'https://www.covenanthealthcare.com'
       tags: Full-time
       date: 2017.11 - 2022.02
-      role: Health Unit Coordinator
+      role: Health Unit Coordinator, Cooper 5North/Main
       location: Saginaw, MI
-        #description: |
-        #Description
+      description: |
+        Clerical role on an orthopedic post-surgical unit. Assited with everyday functions, calling on consults, making staffing adjustments as necessary, and in general providing support for our clinical teams.
         
 
     - company: Covenant Healthcare 
@@ -125,12 +125,14 @@ experience:
       date: 2022.02 - Present
       role: Desktop Support Analyst
       location: Saginaw, MI
-        #description: |
-        #Description
+      description: |
+         Desktop support technician role; served as a member of the Physical desktop team, gaining experience with Windows Active Directory and SCCM, as well as foundational troubleshooting skills. Involved software installation and removal, system deployment, secure system disposal for sensitivte data, and providing on-site support for our clinical staff in addition to System Admins and the Networking team.
+
+
 
 certificate:
   show: true
-  order: 4 
+  order: 3 
   title: Certificates
     #description: |
     #The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
@@ -172,7 +174,7 @@ certificate:
  
 skill:
   show: true
-  order: 5 
+  order: 4 
   title: Skills
     #description: |
     #The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
