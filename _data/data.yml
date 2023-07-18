@@ -186,24 +186,24 @@ skill:
     #There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
 
   items:
-    - name: Linux 
-      level: 4
-    - name: Windows
+    - name: Linux Systems
       level: 3
-    - name: Troubleshooting
+    - name: Switch Configuration
       level: 4
-    - name: Interpersonal Skills
+    - name: General Troubleshooting
       level: 4
-    - name: Critical thinking
+    - name: Firewalls & Access Control
       level: 3
-    - name: Networking
-      level: 4
-    - name: Wireless
-      level: 4
-    - name: Documentation 
+    - name: Collaboration
       level: 3
-    - name: Security
+    - name: Documentation
+      level: 3
+    - name: Security Principles
       level: 4
+    - name: Router Configuration 
+      level: 4
+    - name: WAN Technologies
+      level: 2
 
         #groups:
         #- name: Technical 
