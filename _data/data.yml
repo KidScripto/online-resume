@@ -297,4 +297,12 @@ reference:
         #description: |
         #Drew was a co-worker on the clinical unit before he transferred to the IT department.
   
+    - name: Randy Hall
+      link: '#'
+      title: Desktop Support Analyst
+      institution: Covenant Healthcare
+      address: 700 Cooper Avenue, Saginaw MI, 48602
+      email: randy.hall@chs-mi.com
+      phone: 989.583.5036
+
   close: <strong>Sorry, my resume has been hidden.</strong>
