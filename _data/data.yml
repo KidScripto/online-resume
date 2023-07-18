@@ -147,21 +147,21 @@ certificate:
     - name: A+
       issuer: CompTIA
       date: 12.16.2021
-      link: '#'
+      link: 'assets/images/CompTIA A+ ce certificate.pdf'
         #description: |
         #It's my Example Certificate One by Example.
     
     - name: Network+
       issuer: CompTIA
       date: 1.27.2021
-      link: '#'
+      link: 'assets/images/CompTIA Network+ ce certificate-1.pdf'
         #description: |
         #It's my Example Certificate Two by Example.
 
     - name: Security+
       issuer: CompTIA
       date: 2.27.2023
-      link: '#'
+      link: 'assets/images/CompTIA Security+ ce certificate.pdf'
         #description: |
         #Description
 
