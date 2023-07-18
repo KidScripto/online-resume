@@ -3,7 +3,7 @@ basic:
   title: Desktop Support Analyst # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/ # avatar file path
+    path: /assets/images/855554396.png # avatar file path
 
 contact:
   # meta
