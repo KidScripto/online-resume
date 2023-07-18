@@ -190,9 +190,9 @@ skill:
       level: 3
     - name: Switch Configuration
       level: 4
-    - name: General Troubleshooting
+    - name: Troubleshooting
       level: 4
-    - name: Firewalls & Access Control
+    - name: Firewalls & ACLs
       level: 3
     - name: Collaboration
       level: 3
