@@ -26,7 +26,7 @@ contact:
   #line:                    # lineid            | https://line.me/R/ti/p/@lineid
   #viber:                   # username          | https://vb.me/username
   #programmer
-  github:                     kidscripto        | https://github.com/kidscripto
+  github: kidscripto        # username          | https://github.com/username
   #gitlab:                  # username          | https://gitlab.com/username
   #bitbucket:               # username          | https://bitbucket.com/username
   #stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
