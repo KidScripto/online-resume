@@ -205,21 +205,6 @@ skill:
     - name: Security
       level: 4
 
-skill2:
-  show: true
-  order: 4
-  title: General Skills
-  
-  items:
-    - name: Collaboration
-      level: 3
-    - name: Time-Management
-      level: 3
-    - name: Organization
-      level: 3
-    - name: Self-Directed
-      level: 3
-
         #groups:
         #- name: Technical 
         #item:
