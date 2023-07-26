@@ -168,7 +168,7 @@ certificate:
     - name: Cisco Certified Network Associate
       issuer: Cisco Systems, Inc.
       date: 7.25.2023
-      link: '#'
+      link: 'assets/images/Cisco Certified Network Associate certificate.pdf'
         #description: |
         #Description
  
