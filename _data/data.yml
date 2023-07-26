@@ -75,7 +75,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    I'm a motivated and curious individual looking to explore the many avenues the IT industry has to offer. My interests include all things information security and networking! My current plan, after completing the CCNA, is to move on to attain the Certified Ethical Hacker and Cisco Certified Network Professional certifications. I'm always looking to learn new things and appreciate any input or advice!
+    I'm a motivated and curious individual looking to explore the many avenues the IT industry has to offer. My interests include all things information security and networking! I've just completed my CCNA certification, and my next plan is to attain the Certified Ethical Hacker and CCNP Security certifications. I'm always looking to learn new things and appreciate any input or advice!
 
 education:
   show: true
@@ -126,7 +126,7 @@ experience:
       role: Desktop Support Analyst
       location: Saginaw, MI
       description: |
-         Desktop support technician role; served as a member of the Physical desktop team, gaining experience with Windows Active Directory and SCCM, as well as foundational troubleshooting skills. Involved software installation and removal, system deployment, secure system disposal for sensitivte data, and providing on-site support for our clinical staff in addition to System Admins and the Networking team.
+        Desktop support technician role; served as a member of the Physical desktop team, gaining experience with Windows Active Directory and SCCM, as well as foundational troubleshooting skills. Involved software installation and removal, system deployment, secure system disposal for sensitive data, and providing on-site support for our clinical staff in addition to System Admins and the Networking team.
 
 
 
@@ -167,7 +167,7 @@ certificate:
 
     - name: Cisco Certified Network Associate
       issuer: Cisco
-      date: In Progress
+      date: 7.25.2023
       link: '#'
         #description: |
         #Description
