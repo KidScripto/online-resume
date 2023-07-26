@@ -153,7 +153,7 @@ certificate:
     
     - name: Network+
       issuer: CompTIA
-      date: 1.27.2021
+      date: 1.27.2022
       link: 'assets/images/CompTIA Network+ ce certificate-1.pdf'
         #description: |
         #It's my Example Certificate Two by Example.
