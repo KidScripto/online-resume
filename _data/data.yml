@@ -79,10 +79,10 @@ profile:
 
 education:
   show: true
-  order: 5
+  order: 6
   title: Education
   description: |
-    My current educational background is entirely unrelated to my current professional goals, though I am contemplating pursuing an online degree in Networking or Cybersecurity if it becomes more financially viable for me to invest further in this particular type of education. Until then, my plan is to continue certification hunting!
+    My current educational background is entirely unrelated to my professional goals; that said, I have filled out an application to WGU for their BS in Networking and Security (Cisco) program and hope to complete the program as quickly as possible.
 
   items:
     - institution: Saginaw Valley State University 
@@ -188,15 +188,11 @@ skill:
   items:
     - name: Linux Systems
       level: 3
-    - name: Switch Configuration
-      level: 4
-    - name: Router Configuration
+    - name: Cisco IOS
       level: 4
     - name: Firewalls & ACLs
       level: 3
     - name: Ansible
-      level: 3
-    - name: Nornir
       level: 3
     - name: Python Scripting
       level: 3
@@ -204,6 +200,10 @@ skill:
       level: 4
     - name: Documentation
       level: 3
+    - name: Troubleshooting
+      level: 4
+    - name: Collaboration
+      level: 4
 
         #groups:
         #- name: Technical 
@@ -242,16 +242,11 @@ interest:
       link:
 
 evaluation:
-  show: False 
-  order: 6
+  show: True 
+  order: 5
   title: Self-evaluation
   description: |
-    The self-evaluation section in a resume is a section where you can evaluate and assess your own skills, strengths, and weaknesses. It is typically a short paragraph or bullet points at the end of your resume, which provides a personal perspective on your abilities and how they align with the requirements of the job.
-
-    In this section, you can highlight your achievements, areas of expertise, and any unique qualities or experiences that set you apart from other candidates. You can also mention areas where you are looking to improve or gain further experience.
-
-    A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
-
+    After spending the better part of a decade in public-facing roles, my customer service skills are quite strong I've got the ticket survey responses to show it! On the service desk at Covenant, I've received a fair amount of exposure to IT operations within a primarily windows-based environment. I'm self-directed in my learning, have a keen interest in developing new skills, and I feel like I've begun to outgrow my current position. If I had to list what I believe my weaknesses are, it would be a lack of relevant experience.  
 reference:
   show: true
   order: 7
