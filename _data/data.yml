@@ -242,7 +242,7 @@ interest:
       link:
 
 evaluation:
-  show: True 
+  show: False 
   order: 5
   title: Self-evaluation
   description: |
